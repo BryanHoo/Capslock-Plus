@@ -1,5 +1,8 @@
 {
     "title": "CapsLock Plus",
+    "maintainers": ["BryanHu"],
+    "homepage": "https://github.com/BryanHoo/Capslock-Plus",
+    "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/BryanHoo/Capslock-Plus/master/capslock-plus.json",
     "rules": [
         {
             "description": "CapsLock to Hyper/Escape",
