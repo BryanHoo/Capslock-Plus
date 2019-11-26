@@ -38,7 +38,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 | `⇪` Press | `⎋` Escape | Single press to escape     |
 | `⇪` Hold  | `✱` Hyper  | Enable Hyper Functionality |
 
-###Navigation
+### navigation
 
 Hold `✱` Hyper to enable navigators
 
