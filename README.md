@@ -67,7 +67,7 @@ Hold `✱` Hyper to enable navigators
 
 | Origin  | Maps to          | Comment       |
 | ------- | ---------------- | ------------- |
-| `⇥` Tab | `⌘⇥` Command+Tab | Switch Window |
+| `/` Tab | `⌘⇥` Command+Tab | Switch Window |
 
 ### Applications
 
