@@ -34,6 +34,30 @@
             ]
         },
         {
+            "description": "left shift to check language",
+            "manipulators": [
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "left_shift",
+                        "modifiers": {
+                            "optional": ["any"]
+                        }
+                    },
+                    "to": [{
+                        "key_code": "left_shift",
+                        "lazy": true
+                    }],
+                    "to_if_alone": [
+                        {
+                            "key_code": "left_control",
+                            "modifiers": ["spacebar"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "description": "Hyper Cursor navigation",
             "manipulators": [
                 {
