@@ -2,8 +2,6 @@
 
 > It is modeled on capslock+ of windows platform and basically keeps the same as that of windows,Click to view [windows Capslock+](https://cjkis.me/capslock+/)
 
-
-
 ## Platforms
 
 * CapsLock-Plus via [Karabiner-Elements](https://pqrs.org/osx/karabiner/)
@@ -33,10 +31,12 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 
 `✱` Hyper actually maps to `⌃⌥⇧⌘` (all right modifiers) , It works well with additional left modifiers. And compatible with most application. Hold CapsLock to enable `Hyper` funcationality while press it will emit an `Escape`.
 
-| Origin    | Maps to    | Comment                    |
-| --------- | ---------- | -------------------------- |
-| `⇪` Press | `⎋` Escape | Single press to escape     |
-| `⇪` Hold  | `✱` Hyper  | Enable Hyper Functionality |
+> NOTE: left-shift maps to left-control + spacebar, click left-shift to switch input method by default
+
+| Origin | Maps to    | Comment                    |
+| ------ | ---------- | -------------------------- |
+| Press  | `⎋` Escape | Single press to escape     |
+| Hold   | `✱` Hyper  | Enable Hyper Functionality |
 
 ### navigation
 
