@@ -4,12 +4,12 @@
 
 ## Platforms
 
-* CapsLock-Plus via [Karabiner-Elements](https://pqrs.org/osx/karabiner/)
-  * macOS Catalina(10.15)
-  * macOS Mojave(10.14)
-  * macOS High Sierra (10.13)
-  * macOS Sierra (10.12)
-  * macOS EI Capitan (10.11)
+- CapsLock-Plus via [Karabiner-Elements](https://pqrs.org/osx/karabiner/)
+  - macOS Catalina(10.15)
+  - macOS Mojave(10.14)
+  - macOS High Sierra (10.13)
+  - macOS Sierra (10.12)
+  - macOS EI Capitan (10.11)
 
 ## Install
 
@@ -65,9 +65,11 @@ Hold `✱` Hyper to enable navigators
 
 ### Window Control
 
-| Origin  | Maps to          | Comment       |
-| ------- | ---------------- | ------------- |
-| `/` Tab | `⌘⇥` Command+Tab | Switch Window |
+| Origin  | Maps to                | Comment                     |
+| ------- | ---------------------- | --------------------------- |
+| `/` Tab | `⌘⇥` Command+Tab       | Switch Window               |
+| `W`     | LeftControl+LeftArrow  | Move one space to the left  |
+| `R`     | LeftControl+RightArrow | Move one space to the right |
 
 ### Applications
 

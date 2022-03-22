@@ -486,6 +486,46 @@
         },
         {
           "from": {
+            "key_code": "w",
+            "modifiers": {
+              "mandatory": [
+                "right_command",
+                "right_control",
+                "right_shift",
+                "right_option"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "left_arrow",
+              "modifiers": ["left_control"]
+            }
+          ],
+          "type": "basic"
+        },
+        {
+          "from": {
+            "key_code": "r",
+            "modifiers": {
+              "mandatory": [
+                "right_command",
+                "right_control",
+                "right_shift",
+                "right_option"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "right_arrow",
+              "modifiers": ["left_control"]
+            }
+          ],
+          "type": "basic"
+        },
+        {
+          "from": {
             "key_code": "t",
             "modifiers": {
               "mandatory": [
