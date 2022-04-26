@@ -18,14 +18,18 @@
           "to": [
             {
               "key_code": "right_shift",
-              "modifiers": ["right_command", "right_control", "right_option"]
+              "modifiers": ["right_command", "right_control", "right_option"],
+              "lazy": true
             }
           ],
           "to_if_alone": [
             {
               "key_code": "escape"
             }
-          ]
+          ],
+          "parameters": {
+            "basic.to_if_alone_timeout_milliseconds": 500
+          }
         }
       ]
     },
@@ -560,6 +564,30 @@
               "shell_command": "open -a 'finder'"
             }
           ],
+          "type": "basic"
+        },
+        {
+          "from": {
+            "key_code": "left_shift",
+            "modifiers": {
+              "optional": ["any"]
+            }
+          },
+          "to": [
+            {
+              "key_code": "left_shift",
+              "lazy": true
+            }
+          ],
+          "to_if_alone": [
+            {
+              "key_code": "spacebar",
+              "modifiers": ["left_control"]
+            }
+          ],
+          "parameters": {
+            "basic.to_if_alone_timeout_milliseconds": 500
+          },
           "type": "basic"
         }
       ]
