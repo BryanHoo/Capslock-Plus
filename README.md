@@ -63,6 +63,12 @@ Hold `✱` Hyper to enable navigators
 | `U`    |                | cursor to line(doc) head and selection     |
 | `O`    |                | cursor to line(doc) end and selection      |
 
+### Switch Input Method
+
+| Origin       | Maps to    | Comment             |
+| ------------ | ---------- | ------------------- |
+| `Left-Shift` | `CapsLock` | Switch Input Method |
+
 ### Window Control
 
 | Origin  | Maps to                | Comment                     |
